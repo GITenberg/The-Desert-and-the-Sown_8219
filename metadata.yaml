@@ -1,0 +1,29 @@
+_repo: The-Desert-and-the-Sown_8219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Foote, Mary Hallock
+    aliases:
+    - Foote, Mrs. Arthur DeWint
+    - Hallock, Mary
+    birthdate: 1847
+    deathdate: 1938
+    gutenberg_agent_id: '2703'
+    url: http://www.gutenberg.org/2009/agents/2703
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hallock_Foote
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Fiction'
+- GITenberg
+title: The Desert and the Sown
+url: http://www.gutenberg.org/ebooks/8219
